@@ -1,1 +1,3 @@
-print "Hello World!";
+sub main {
+	print "Hello World!"
+}
