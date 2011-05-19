@@ -1,1 +1,1 @@
-print "Lalalalalala";
+print "ZZZZZZZZZZZZZZZZZZZZZZ";
