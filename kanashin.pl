@@ -5,5 +5,10 @@ sub ghgghhg {
 
 sub main {
 	print "Hello World!"
+	\&test2;
 
+}
+
+sub test2 {
+	print "asdasd";
 }
